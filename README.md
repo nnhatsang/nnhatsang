@@ -1,4 +1,4 @@
-## Hey there 👋, I'm [Pavan!](https://github.com/nnhatsang/)
+## Hey there 👋, I'm [Sang Nguyen!](https://github.com/nnhatsang/)
 
 <h3 align="center">As a software engineer, I am constantly learning and improving my skills. I am able to solve problems, pay attention to detail, and work well in a team. I am also passionate about innovation and staying up-to-date on technology trends and news. I am confident that I have the knowledge and skills necessary to contribute to the success of software projects.</h3>
 
