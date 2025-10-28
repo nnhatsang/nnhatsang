@@ -19,6 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnhatsang&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" alt="nnhatsang" />  
 </p>
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=nnhatsang&theme=highcontrast&hide_border=true&border_radius=5&date_format=n%2Fj%5B%2FY%5D&card_width=520" alt="GitHub nnhatsang Streak" />
+<img src="https://streak-stats.demolab.com/?user=nnhatsang&theme=highcontrast&hide_border=true&border_radius=5&date_format=n%2Fj%5B%2FY%5D" alt="GitHub nnhatsang Streak" />
 </p>
 
