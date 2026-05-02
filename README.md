@@ -13,6 +13,6 @@ As a Frontend Developer with 2 years of experience, I am passionate about creati
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nnhatsang&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nnhatsang&label=Profile views&color=0e75b6&style=flat" alt="nnhatsang" /> </p>
+[![](https://komarev.com/ghpvc/?username=nnhatsang)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
